@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hey Folks!
 
-<!--
-**MohamedAzeem03/MohamedAzeem03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohamed Azeem 👨‍💻
+🎓 Pursuing Master of Computer Applications (MCA)
 
-Here are some ideas to get you started:
+💻 Full Stack App Developer passionate about building web, mobile, and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I love learning new technologies, turning ideas into real-world projects, and exploring how things work behind the scenes.
+
+🤝 Always open to learning, collaborating, sharing ideas, and connecting with fellow developers.
+
+💡 Tech Fact
+
+In 1980, IBM introduced a 1 GB hard disk drive that weighed around 550 pounds (250 kg). Today, we can carry hundreds of gigabytes in a tiny memory card. 🤯💾
